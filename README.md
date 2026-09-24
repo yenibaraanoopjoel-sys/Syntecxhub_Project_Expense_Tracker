@@ -10,7 +10,7 @@ copy .env.example .env.local
 npm run dev
 ```
 
-Open http://localhost:3000. Expenses can be added and deleted from the dashboard and persist in the browser with localStorage. The server health check is available at `/api/health`.
+Open http://localhost:3000. Expenses can be added and deleted from the dashboard and persist in the browser with localStorage.
 
 ## Firebase setup
 
